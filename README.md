@@ -6,7 +6,6 @@ This project is open source and available on GitHub. We welcome contributions an
 
 ## This project uses:
 
-- Node.js 
 - TailwindCSS 
 - Typescript 
 - Next.js

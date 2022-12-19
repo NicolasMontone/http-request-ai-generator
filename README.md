@@ -4,9 +4,8 @@
 
 This project is open source and available on GitHub. We welcome contributions and feedback!
 
-## Prerequisites
+## This project uses:
 
-To get started with this project, you'll need the latest versions of: 
 - Node.js 
 - TailwindCSS 
 - Typescript 
